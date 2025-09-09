@@ -22,7 +22,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 Prompts utilizados seguem abaixo.
 
-<a href="https://github.com/GDVP/prompts-recipe-to-create-a-ebook/assets/20250909-Ebook-Python 3-13 – Um resumo sobre mudanças em relação à versão anterior-Criado com IA Generativa.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href=".assets/20250909-Ebook-Python 3-13 – Um resumo sobre mudanças em relação à versão anterior-Criado com IA Generativa.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias de IA utilizadas no projeto
 
