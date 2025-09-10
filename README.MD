@@ -31,9 +31,7 @@ Obs.: Na data de criação deste e-book, o chatGPT já tinha a capacidade de ger
 
 ## 🧠 Prompts
 
-ChatGPT：
-                                                               |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ChatGPT:
 - Vamos criar um Ebook simples sobre Python. O tema e título é "Python 3.13 - Um resumo sobre Mudanças em Relação a Versão Anterior" Crie uma imagem de capa para esse tema. Em seguida, crie e estrutura os tópicos e conteúdo.
 - Crie agora o conteúdo.
 - Agora crie apenas os tópicos.
